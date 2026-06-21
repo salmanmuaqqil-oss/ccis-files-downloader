@@ -14,11 +14,27 @@ Automation tool for downloading project files from ccis-ng.
 
 ## Installation
 
+```bash
+
+git clone https://github.com/salmanmuaqqil-oss/ccis-files-downloader.git
+
+cd ccis-files-downloader
+
 pip install -r requirements.txt
+
+```
 
 ## Usage
 
+```bash
+
 python downloader_v1.py
+
+```
+
+Login to CCIS when the browser opens.
+
+The tool will automatically detect successful login and start downloading files.
 
 ## Requirements
 
@@ -27,7 +43,7 @@ python downloader_v1.py
 
 ## Preview
 
-(screenshots/1.png, 2.png, 3.png)
+(screenshots/banner.png, process.png, finished.png)
 
 ## Disclaimer
 
